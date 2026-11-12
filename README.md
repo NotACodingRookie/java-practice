@@ -1,4 +1,4 @@
-# Java Practice
+# (Luke's) Java Practice
 
 Practice problems with automatic input/output testing. You write a program called `Main.java`; the tester runs it against sample and extra test cases and tells you what passed.
 
